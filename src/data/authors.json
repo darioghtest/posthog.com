@@ -357,7 +357,7 @@
     },
     {
         "handle": "tomas-farias",
-        "name": "Tom\u00e1s Far\u00edas Santana",
+        "name": "Tomás Farías Santana",
         "role": "Software Engineer"
     },
     {
@@ -864,5 +864,12 @@
         "link_type": "linkedin",
         "link_url": "https://www.linkedin.com/in/sara-verdi-a61677135/",
         "profile_id": 49660
+    },
+    {
+        "handle": "paragraph-team",
+        "name": "Paragraph Team",
+        "role": "Paragraph",
+        "link_type": "linkedin",
+        "link_url": "https://x.com/paragraph_xyz"
     }
 ]
